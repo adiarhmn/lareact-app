@@ -11,7 +11,7 @@ export default function Product() {
             <Modal open={open} onClose={() => setOpen(false)}>
                 <ModalDialog>
                     <ModalClose />
-                    <span>askdjasd</span>
+                    <span></span>
                 </ModalDialog>
             </Modal>
         </div>

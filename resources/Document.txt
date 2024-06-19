@@ -1,0 +1,4 @@
+====================== ABOUT PROJECT ==========================
+=>  Project Presensi Ujian
+=>  Bertujuan Untuk Membantu Berjalannya Proses Ujian Lebih Mudah Di Manajemen
+    mulai dari Presensi Pengawas, Presensi Mahasiswa, Hingga Pelaporan Presensi Ujian
